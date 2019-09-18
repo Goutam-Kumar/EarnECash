@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EarnECash</string>
+    <string name="login">Log in</string>
+    <string name="remember">Remember Me</string>
+    <string name="dnt_have_acc">Don\'t have an Account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="username">Username or Mobile No.</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="conf_password">Confirm Password</string>
+    <string name="mobile">Mobile</string>
+    <string name="profession">Profession</string>
+    <string name="ref_code">Reference Code (If Any)</string>
+    <string name="signup">Sign up</string>
+    <string name="do_have_acc">Do have an Account?</string>
+    <string name="login_now">Login Now</string>
+    <string name="email">Email</string>
+    <string-array name="profession">
+        <item>School Teacher</item>
+        <item>Real Estate</item>
+        <item>Police Man</item>
+        <item>Gas Station</item>
+        <item>Fire Man</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="imgs">
+        <item>http://www.earnecash.com/assets/images/6.jpg</item>
+        <item>http://www.earnecash.com/assets/images/5.jpg</item>
+        <item>http://www.earnecash.com/assets/images/17.jpg</item>
+        <item>http://www.earnecash.com/assets/images/27.jpg</item>
+        <item>http://www.earnecash.com/assets/images/111.jpg</item>
+        <item>http://www.earnecash.com/assets/images/13.jpg</item>
+        <item>http://www.earnecash.com/assets/images/1.jpg</item>
+        <item>http://www.earnecash.com/assets/images/2.jpg</item>
+        <item>http://www.earnecash.com/assets/images/3.jpg</item>
+        <item>http://www.earnecash.com/assets/images/9.jpg</item>
+        <item>http://www.earnecash.com/assets/images/11.jpg</item>
+    </string-array>
+</resources>
